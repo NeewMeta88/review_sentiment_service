@@ -1,4 +1,4 @@
-# Review Sentimental Service
+# Review Sentiment Service
 
 Сервис сбора отзывов пользователей 
 
@@ -9,6 +9,7 @@
 
 ```bash
 git clone https://github.com/NeewMeta88/review_sentiment_service.git
+cd review_sentiment_service
 ```
 
 ### 2. Установите зависимости
